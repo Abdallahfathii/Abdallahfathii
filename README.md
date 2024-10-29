@@ -2,7 +2,7 @@
 - 👀 I’m interested in programing and coding 
 - 🌱 I’m currently learning full stack
 - 💞️ I’m looking to collaborate on Microsoft and Google 
-- 📫 How to reach me in my gmail(iifathii17@gamil.com) or telegram(@fathii999) 
+- 📫 How to reach me in my gmail(iifathii17@gmail.com) or telegram(@fathii999) 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
