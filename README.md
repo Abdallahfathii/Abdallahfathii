@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abdallahfathii
 - 👀 I’m interested in programing and coding
-- 🌱 I’m currently learning Data Analysis
+- 🌱 I’m currently learning React js
 - 💞️ I’m looking to collaborate on Microsoft and Google 
 - 📫 How to reach me in my gmail(iifathii20@gmail.com) or telegram(@fathii999) 
 - 😄 Pronouns: ...
